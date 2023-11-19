@@ -2,7 +2,7 @@ import argparse
 import torch.nn.functional as F
 import torch
 from torch import tensor
-from network import APPNPTransformerBlock, fastAPPNPTransformerBlock
+from Models import APPNPTransformerBlock, fastAPPNPTransformerBlock
 import numpy as np
 import time
 from utils import load_data, coarsening, getData
