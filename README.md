@@ -1,5 +1,5 @@
-# NACFormer_MS
-NACFormer_MS model
+# NACFormer
+NACFormer model
 
 # Environmental Setting
 ```
